@@ -27,7 +27,9 @@ Vaccination uptake differs across demographic groups such as age, education, inc
 - `education`
 - `income_poverty`
 - `sex`
+- marital_status
 - `race`
+
 - `h1n1_vaccine`
 - `seasonal_vaccine`
 
@@ -173,24 +175,24 @@ This gives us a very clear cross-vaccine comparison.
 
 # 3. Sprint 1 Hypothesis Table
 
-| ID | Hypothesis |
-|---|---|
-| **H1** | Beliefs and risk perception influence vaccination decisions. |
-| **H2** | Demographic characteristics are associated with vaccination uptake. |
+| ID     | Hypothesis                                                                  |
+| ------ | --------------------------------------------------------------------------- |
+| **H1** | Beliefs and risk perception influence vaccination decisions.                |
+| **H2** | Demographic characteristics are associated with vaccination uptake.         |
 | **H3** | Preventive health behaviours are associated with higher vaccination uptake. |
-| **H4** | Doctor recommendations are strongly associated with vaccination uptake. |
-| **H5** | H1N1 and seasonal flu vaccination behaviours are positively associated. |
+| **H4** | Doctor recommendations are strongly associated with vaccination uptake.     |
+| **H5** | H1N1 and seasonal flu vaccination behaviours are positively associated.     |
 
 ---
 
 # 4. Sprint 1 Research Question Table
 
-| ID | Research Question |
-|---|---|
-| **RQ1** | Are certain age groups more likely to get vaccinated? |
-| **RQ2** | Do gender, education, and income correlate with vaccination? |
-| **RQ3** | Are people with chronic medical conditions more likely to get vaccinated? |
-| **RQ4** | How strongly is a doctor's recommendation associated with vaccination? |
-| **RQ5** | Does perceived vaccine effectiveness or flu risk relate to vaccination? |
-| **RQ6** | Do preventive behaviours correlate with vaccination uptake? |
+| ID      | Research Question                                                                         |
+| ------- | ----------------------------------------------------------------------------------------- |
+| **RQ1** | Are certain age groups more likely to get vaccinated?                                     |
+| **RQ2** | Do gender, education, and income correlate with vaccination?                              |
+| **RQ3** | Are people with chronic medical conditions more likely to get vaccinated?                 |
+| **RQ4** | How strongly is a doctor's recommendation associated with vaccination?                    |
+| **RQ5** | Does perceived vaccine effectiveness or flu risk relate to vaccination?                   |
+| **RQ6** | Do preventive behaviours correlate with vaccination uptake?                               |
 | **RQ7** | Are people who receive the seasonal vaccine also more likely to receive the H1N1 vaccine? |
