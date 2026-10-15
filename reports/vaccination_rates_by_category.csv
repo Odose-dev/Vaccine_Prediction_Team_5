@@ -1,0 +1,307 @@
+version,group,feature,target,category,n,vaccinated,rate_percent,ci95_low_percent,ci95_high_percent
+observed,1. Demographics Influence Vaccine Intake,age_group,h1n1_vaccine,55 - 64 Years,5563,1351,24.285457486967463,23.17662648726528,25.42977767991774
+observed,1. Demographics Influence Vaccine Intake,age_group,h1n1_vaccine,35 - 44 Years,3848,761,19.776507276507278,18.54840746908709,21.064891134533433
+observed,1. Demographics Influence Vaccine Intake,age_group,h1n1_vaccine,18 - 34 Years,5215,991,19.00287631831256,17.961046439245596,20.090338614122857
+observed,1. Demographics Influence Vaccine Intake,age_group,h1n1_vaccine,65+ Years,6843,1551,22.665497588776855,21.689033639750726,23.672633889727123
+observed,1. Demographics Influence Vaccine Intake,age_group,h1n1_vaccine,45 - 54 Years,5238,1020,19.473081328751434,18.423221292417473,20.567684382179486
+observed,1. Demographics Influence Vaccine Intake,age_group,seasonal_vaccine,55 - 64 Years,5563,2844,51.12349451734676,49.80960025369216,52.43583822205133
+observed,1. Demographics Influence Vaccine Intake,age_group,seasonal_vaccine,35 - 44 Years,3848,1395,36.25259875259875,34.74809712037663,37.78452107507932
+observed,1. Demographics Influence Vaccine Intake,age_group,seasonal_vaccine,18 - 34 Years,5215,1484,28.456375838926174,27.247976164558857,29.696490960377393
+observed,1. Demographics Influence Vaccine Intake,age_group,seasonal_vaccine,65+ Years,6843,4610,67.3681134005553,66.24774261627803,68.46899522986769
+observed,1. Demographics Influence Vaccine Intake,age_group,seasonal_vaccine,45 - 54 Years,5238,2102,40.12982054219167,38.81011322810263,41.46399448532241
+observed,1. Demographics Influence Vaccine Intake,education,h1n1_vaccine,< 12 Years,2363,395,16.716038933559034,15.265909851999131,18.274209865873093
+observed,1. Demographics Influence Vaccine Intake,education,h1n1_vaccine,12 Years,5797,1071,18.475073313782993,17.497018294815845,19.49488148478857
+observed,1. Demographics Influence Vaccine Intake,education,h1n1_vaccine,College Graduate,10097,2483,24.591462810735862,23.761278318763505,25.440973583534333
+observed,1. Demographics Influence Vaccine Intake,education,h1n1_vaccine,Some College,7043,1464,20.7865966207582,19.85496942549623,21.750074138394947
+observed,1. Demographics Influence Vaccine Intake,education,seasonal_vaccine,< 12 Years,2363,948,40.118493440541684,38.15985248145084,42.109210397281736
+observed,1. Demographics Influence Vaccine Intake,education,seasonal_vaccine,12 Years,5797,2598,44.81628428497499,43.53995996577401,46.09947417035246
+observed,1. Demographics Influence Vaccine Intake,education,seasonal_vaccine,College Graduate,10097,5164,51.143904129939585,50.16864629766252,52.118291884089416
+observed,1. Demographics Influence Vaccine Intake,education,seasonal_vaccine,Some College,7043,3183,45.19380945619764,44.03442919750934,46.35842973147105
+observed,1. Demographics Influence Vaccine Intake,marital_status,h1n1_vaccine,Not Married,11744,2250,19.158719346049047,18.45707878750029,19.880529654083265
+observed,1. Demographics Influence Vaccine Intake,marital_status,h1n1_vaccine,Married,13555,3168,23.3714496495758,22.66663437815591,24.091353596519564
+observed,1. Demographics Influence Vaccine Intake,marital_status,seasonal_vaccine,Not Married,11744,5188,44.17574931880109,43.27965979006849,45.07564782286446
+observed,1. Demographics Influence Vaccine Intake,marital_status,seasonal_vaccine,Married,13555,6699,49.42087790483217,48.579496330417,50.26258763024569
+observed,1. Demographics Influence Vaccine Intake,employment_status,h1n1_vaccine,Not in Labor Force,10231,2243,21.923565633857883,21.132498190893685,22.735709019597238
+observed,1. Demographics Influence Vaccine Intake,employment_status,h1n1_vaccine,Employed,13560,2923,21.55604719764012,20.872032205844075,22.25617359470727
+observed,1. Demographics Influence Vaccine Intake,employment_status,h1n1_vaccine,Unemployed,1453,237,16.311080523055747,14.500616064733146,18.29920960795909
+observed,1. Demographics Influence Vaccine Intake,employment_status,seasonal_vaccine,Not in Labor Force,10231,5708,55.79122275437396,54.82689237612804,56.75120587549392
+observed,1. Demographics Influence Vaccine Intake,employment_status,seasonal_vaccine,Employed,13560,5721,42.190265486725664,41.3613550870425,43.023599526072324
+observed,1. Demographics Influence Vaccine Intake,employment_status,seasonal_vaccine,Unemployed,1453,439,30.21335168616655,27.907036890798647,32.62401495986328
+observed,1. Demographics Influence Vaccine Intake,household_adults,h1n1_vaccine,0.0,8056,1585,19.674776564051637,18.821217679170143,20.557242493234874
+observed,1. Demographics Influence Vaccine Intake,household_adults,h1n1_vaccine,2.0,2803,563,20.08562254727078,18.64384102348532,21.609286037542258
+observed,1. Demographics Influence Vaccine Intake,household_adults,h1n1_vaccine,1.0,14474,3265,22.557689650407628,21.88411155569782,23.245830483002422
+observed,1. Demographics Influence Vaccine Intake,household_adults,h1n1_vaccine,3.0,1125,222,19.733333333333334,17.51238307179599,22.160279136106624
+observed,1. Demographics Influence Vaccine Intake,household_adults,seasonal_vaccine,0.0,8056,3977,49.3669314796425,48.27574248835177,50.45872393358547
+observed,1. Demographics Influence Vaccine Intake,household_adults,seasonal_vaccine,2.0,2803,1112,39.67178023546201,37.87602001701049,41.49581097185949
+observed,1. Demographics Influence Vaccine Intake,household_adults,seasonal_vaccine,1.0,14474,6874,47.49205471880614,46.6792917825605,48.306148539707415
+observed,1. Demographics Influence Vaccine Intake,household_adults,seasonal_vaccine,3.0,1125,408,36.266666666666666,33.50842604085689,39.118376634975576
+observed,1. Demographics Influence Vaccine Intake,household_children,h1n1_vaccine,0.0,18672,3983,21.33140531276778,20.749758315196047,21.924846073547567
+observed,1. Demographics Influence Vaccine Intake,household_children,h1n1_vaccine,3.0,1747,349,19.977103606182027,18.16898890607884,21.91696263938148
+observed,1. Demographics Influence Vaccine Intake,household_children,h1n1_vaccine,2.0,2864,629,21.962290502793298,20.48421068054428,23.51548305913634
+observed,1. Demographics Influence Vaccine Intake,household_children,h1n1_vaccine,1.0,3175,674,21.228346456692915,19.841158046533394,22.685072856539342
+observed,1. Demographics Influence Vaccine Intake,household_children,seasonal_vaccine,0.0,18672,9455,50.637317909168814,49.9201478961214,51.354225740669115
+observed,1. Demographics Influence Vaccine Intake,household_children,seasonal_vaccine,3.0,1747,599,34.28734974241557,32.09816458429953,36.54548403196139
+observed,1. Demographics Influence Vaccine Intake,household_children,seasonal_vaccine,2.0,2864,1095,38.23324022346369,36.470372050344494,40.02763142446542
+observed,1. Demographics Influence Vaccine Intake,household_children,seasonal_vaccine,1.0,3175,1222,38.48818897637795,36.810602959579484,40.193597801310595
+observed,1. Demographics Influence Vaccine Intake,child_under_6_months,h1n1_vaccine,0.0,23749,4875,20.52718009179334,20.018278087691648,21.04561515527265
+observed,1. Demographics Influence Vaccine Intake,child_under_6_months,h1n1_vaccine,1.0,2138,652,30.495790458372312,28.580703573220624,32.480840148171175
+observed,1. Demographics Influence Vaccine Intake,child_under_6_months,seasonal_vaccine,0.0,23749,11076,46.63775316855446,46.00387771608188,47.27271614840943
+observed,1. Demographics Influence Vaccine Intake,child_under_6_months,seasonal_vaccine,1.0,2138,1044,48.830682881197376,46.71585322836116,50.94970694678223
+observed,1. Demographics Influence Vaccine Intake,sex,h1n1_vaccine,Female,15858,3480,21.94475974271661,21.30744147177076,22.595666984455402
+observed,1. Demographics Influence Vaccine Intake,sex,h1n1_vaccine,Male,10849,2194,20.223062033367132,19.477847349587023,20.989356336054275
+observed,1. Demographics Influence Vaccine Intake,sex,seasonal_vaccine,Female,15858,7888,49.741455416824316,48.96341790117242,50.519618162371124
+observed,1. Demographics Influence Vaccine Intake,sex,seasonal_vaccine,Male,10849,4547,41.911696930592676,40.986255487948135,42.84286422545544
+observed,1. Demographics Influence Vaccine Intake,race,h1n1_vaccine,White,21222,4645,21.88766374517011,21.336471690286743,22.44903135726622
+observed,1. Demographics Influence Vaccine Intake,race,h1n1_vaccine,Black,2118,315,14.872521246458922,13.4208068192888,16.451427799643525
+observed,1. Demographics Influence Vaccine Intake,race,h1n1_vaccine,Other or Multiple,1612,349,21.650124069478906,19.708232742774566,23.72681188919856
+observed,1. Demographics Influence Vaccine Intake,race,h1n1_vaccine,Hispanic,1755,365,20.7977207977208,18.963673065361395,22.759329035847657
+observed,1. Demographics Influence Vaccine Intake,race,seasonal_vaccine,White,21222,10421,49.10470266704363,48.432327955114914,49.77740144130396
+observed,1. Demographics Influence Vaccine Intake,race,seasonal_vaccine,Black,2118,741,34.98583569405099,32.983556917946366,37.04247884659729
+observed,1. Demographics Influence Vaccine Intake,race,seasonal_vaccine,Other or Multiple,1612,677,41.997518610421835,39.609979635467205,44.423107361304204
+observed,1. Demographics Influence Vaccine Intake,race,seasonal_vaccine,Hispanic,1755,596,33.96011396011396,31.781659965672116,36.20863289577246
+observed,2. Socioeconomic Data Influence Vaccine Intake,income_poverty,h1n1_vaccine,Below Poverty,2697,516,19.13236929922136,17.692182370770386,20.66036347888448
+observed,2. Socioeconomic Data Influence Vaccine Intake,income_poverty,h1n1_vaccine,"<= $75,000, Above Poverty",12777,2599,20.341238162322924,19.652226696529173,21.04807833096684
+observed,2. Socioeconomic Data Influence Vaccine Intake,income_poverty,h1n1_vaccine,"> $75,000",6810,1723,25.301027900146845,24.282623846745487,26.347281173348357
+observed,2. Socioeconomic Data Influence Vaccine Intake,income_poverty,seasonal_vaccine,Below Poverty,2697,978,36.26251390433816,34.46883432941245,38.09527166133485
+observed,2. Socioeconomic Data Influence Vaccine Intake,income_poverty,seasonal_vaccine,"<= $75,000, Above Poverty",12777,6091,47.67159740158097,46.80639851027307,48.53819596015313
+observed,2. Socioeconomic Data Influence Vaccine Intake,income_poverty,seasonal_vaccine,"> $75,000",6810,3383,49.6769456681351,48.48995749737201,50.86429809742115
+observed,2. Socioeconomic Data Influence Vaccine Intake,rent_or_own,h1n1_vaccine,Own,18736,4159,22.19790777113578,21.60857983202024,22.798633948882205
+observed,2. Socioeconomic Data Influence Vaccine Intake,rent_or_own,h1n1_vaccine,Rent,5929,1119,18.873334457750044,17.897597693058053,19.889379666460304
+observed,2. Socioeconomic Data Influence Vaccine Intake,rent_or_own,seasonal_vaccine,Own,18736,9382,50.07472245943638,49.35883633201365,50.7905779523149
+observed,2. Socioeconomic Data Influence Vaccine Intake,rent_or_own,seasonal_vaccine,Rent,5929,2197,37.05515263956822,35.83459278896902,38.29247582302249
+observed,2. Socioeconomic Data Influence Vaccine Intake,health_insurance,h1n1_vaccine,1.0,12697,4034,31.771284555406787,30.967062988584665,32.586532928596284
+observed,2. Socioeconomic Data Influence Vaccine Intake,health_insurance,h1n1_vaccine,0.0,1736,256,14.746543778801843,13.156489577106537,16.492272740026866
+observed,2. Socioeconomic Data Influence Vaccine Intake,health_insurance,seasonal_vaccine,1.0,12697,6831,53.80011026226668,52.93191062269227,54.666011161693206
+observed,2. Socioeconomic Data Influence Vaccine Intake,health_insurance,seasonal_vaccine,0.0,1736,398,22.926267281105993,21.009930708465614,24.962157999136842
+observed,3. Doctor Recommendations Influence Vaccine Intake,doctor_recc_h1n1,h1n1_vaccine,0.0,19139,2610,13.637076127279377,13.158169667598948,14.130576729105062
+observed,3. Doctor Recommendations Influence Vaccine Intake,doctor_recc_h1n1,h1n1_vaccine,1.0,5408,2879,53.23594674556213,51.90431377613371,54.562985805038224
+observed,3. Doctor Recommendations Influence Vaccine Intake,doctor_recc_h1n1,seasonal_vaccine,0.0,19139,8093,42.28538586133027,41.58711776633585,42.9867501918125
+observed,3. Doctor Recommendations Influence Vaccine Intake,doctor_recc_h1n1,seasonal_vaccine,1.0,5408,3581,66.21671597633136,64.9450370033559,67.46537289771717
+observed,3. Doctor Recommendations Influence Vaccine Intake,doctor_recc_seasonal,h1n1_vaccine,0.0,16453,2670,16.228043517899472,15.672548912378348,16.799304645865966
+observed,3. Doctor Recommendations Influence Vaccine Intake,doctor_recc_seasonal,h1n1_vaccine,1.0,8094,2819,34.82826785273041,33.797770630524866,35.873159425474626
+observed,3. Doctor Recommendations Influence Vaccine Intake,doctor_recc_seasonal,seasonal_vaccine,0.0,16453,5697,34.625904090439434,33.90257794339205,35.35640767265743
+observed,3. Doctor Recommendations Influence Vaccine Intake,doctor_recc_seasonal,seasonal_vaccine,1.0,8094,5977,73.84482332592044,72.87624580179401,74.79077780726217
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_concern,h1n1_vaccine,1.0,8153,1397,17.1347970072366,16.332393243379,17.968156460148062
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_concern,h1n1_vaccine,3.0,4591,1341,29.209322587671533,27.91178370788244,30.541625030839064
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_concern,h1n1_vaccine,2.0,10575,2473,23.38534278959811,22.588351944752656,24.201662614861437
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_concern,h1n1_vaccine,0.0,3296,447,13.561893203883496,12.435349869539056,14.773274242407433
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_concern,seasonal_vaccine,1.0,8153,3342,40.99104624064761,39.92797066456641,42.06260733776262
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_concern,seasonal_vaccine,3.0,4591,2569,55.957307776083645,54.51690135574794,57.3877531334712
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_concern,seasonal_vaccine,2.0,10575,5440,51.44208037825059,50.489158884048166,52.39395455693916
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_concern,seasonal_vaccine,0.0,3296,1042,31.614077669902912,30.048891443084987,33.22207126452497
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_knowledge,h1n1_vaccine,0.0,2506,361,14.405426975259378,13.08506588623612,15.834747206729011
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_knowledge,h1n1_vaccine,2.0,9487,2638,27.806472014335405,26.914009649946102,28.716900230164278
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_knowledge,h1n1_vaccine,1.0,14598,2653,18.173722427729828,17.55656042405388,18.807630173380115
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_knowledge,seasonal_vaccine,0.0,2506,918,36.63208300079808,34.76752298063712,38.53756377512893
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_knowledge,seasonal_vaccine,2.0,9487,5153,54.31643301359755,53.31251449326736,55.31685734434594
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,h1n1_knowledge,seasonal_vaccine,1.0,14598,6308,43.211398821756404,42.409704720133625,44.016664819697844
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_antiviral_meds,h1n1_vaccine,0.0,25335,5274,20.817051509769094,20.321559601276505,21.321391896600662
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_antiviral_meds,h1n1_vaccine,1.0,1301,371,28.516525749423522,26.129214853375913,31.030331525138145
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_antiviral_meds,seasonal_vaccine,0.0,25335,11764,46.43378725083876,45.82025857154834,47.04839723129631
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_antiviral_meds,seasonal_vaccine,1.0,1301,623,47.886241352805534,45.18194851388959,50.602980020669044
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_avoidance,h1n1_vaccine,0.0,7271,1317,18.113051849814333,17.244737216357425,19.015042103263763
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_avoidance,h1n1_vaccine,1.0,19228,4324,22.48803827751196,21.903445841293912,23.083621452007442
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_avoidance,seasonal_vaccine,0.0,7271,2934,40.35208361985972,39.22979543815614,41.484560909790495
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_avoidance,seasonal_vaccine,1.0,19228,9401,48.892240482629504,48.185979805526394,49.59894369796571
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_face_mask,h1n1_vaccine,0.0,24847,5082,20.45317342133859,19.956221856456672,20.95925972057324
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_face_mask,h1n1_vaccine,1.0,1841,586,31.830526887561106,29.742404847722142,33.994316440639665
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_face_mask,seasonal_vaccine,0.0,24847,11398,45.8727411759971,45.253848038095576,46.49291030246754
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_face_mask,seasonal_vaccine,1.0,1841,1026,55.73058120586638,53.45205695552189,57.985240216609135
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_wash_hands,h1n1_vaccine,0.0,4650,679,14.60215053763441,13.616396933997315,15.646341620181781
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_wash_hands,h1n1_vaccine,1.0,22015,4988,22.657279127867362,22.10910607599699,23.214992730404074
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_wash_hands,seasonal_vaccine,0.0,4650,1598,34.36559139784946,33.013946737921735,35.7430465360079
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_wash_hands,seasonal_vaccine,1.0,22015,10819,49.14376561435385,48.48359083829918,49.804239151734315
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_large_gatherings,h1n1_vaccine,0.0,17073,3537,20.716921454928837,20.11562196888969,21.33139547803273
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_large_gatherings,h1n1_vaccine,1.0,9547,2123,22.237352047763697,21.41446626201196,23.082570749274055
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_large_gatherings,seasonal_vaccine,0.0,17073,7540,44.1632987758449,43.41981868887334,44.909404810648255
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_large_gatherings,seasonal_vaccine,1.0,9547,4852,50.822247826542366,49.81929201858058,51.824542199345856
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_outside_home,h1n1_vaccine,1.0,8981,2022,22.514196637345506,21.662229345990802,23.3896669770857
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_outside_home,h1n1_vaccine,0.0,17644,3640,20.630242575379732,20.039590825106497,21.23368033282372
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_outside_home,seasonal_vaccine,1.0,8981,4517,50.29506736443603,49.26109645796282,51.32878595947224
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_outside_home,seasonal_vaccine,0.0,17644,7878,44.64973928814328,43.91745114625446,45.38435664476949
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_touch_face,h1n1_vaccine,1.0,18001,4195,23.304260874395865,22.692402229213595,23.927510964792866
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_touch_face,h1n1_vaccine,0.0,8578,1461,17.03194217766379,16.251236254186345,17.842162847394825
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_touch_face,seasonal_vaccine,1.0,18001,9125,50.691628242875396,49.961213301191684,51.42174805711572
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,behavioral_touch_face,seasonal_vaccine,0.0,8578,3248,37.86430403357426,36.843494952678704,38.89597763032907
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,health_worker,h1n1_vaccine,0.0,23004,4343,18.879325334724395,18.3788223407881,19.39022033265749
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,health_worker,h1n1_vaccine,1.0,2899,1187,40.945153501207315,39.168280928978206,42.7459914332029
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,health_worker,seasonal_vaccine,0.0,23004,10251,44.561815336463226,43.920484533932864,45.20496209052313
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,health_worker,seasonal_vaccine,1.0,2899,1876,64.71196964470506,62.95402069363486,66.43098059219282
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_vacc_effective,h1n1_vaccine,3.0,4723,499,10.565318653398263,9.720472848594602,11.474260834532666
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_vacc_effective,h1n1_vaccine,5.0,7166,2901,40.482835612615126,39.35173607641882,41.624133364572224
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_vacc_effective,h1n1_vaccine,4.0,11683,2061,17.641016862107335,16.960509716182738,18.342796770504457
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_vacc_effective,h1n1_vaccine,2.0,1858,95,5.11302475780409,4.200856467255938,6.210419847510138
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_vacc_effective,h1n1_vaccine,1.0,886,42,4.740406320541761,3.5259676027885654,6.345617717264999
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_vacc_effective,seasonal_vaccine,3.0,4723,1996,42.26127461359305,40.859339625219256,43.67578797810048
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_vacc_effective,seasonal_vaccine,5.0,7166,4388,61.23360312587217,60.099810259869244,62.35535850846242
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_vacc_effective,seasonal_vaccine,4.0,11683,5239,44.842934177865274,43.942958782926596,45.74629982260945
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_vacc_effective,seasonal_vaccine,2.0,1858,477,25.672766415500536,23.73811762871397,27.70780190878515
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_vacc_effective,seasonal_vaccine,1.0,886,187,21.10609480812641,18.546802885710623,23.91485756798941
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_risk,h1n1_vaccine,1.0,8139,719,8.834009092026047,8.236733847463453,9.470125190775908
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_risk,h1n1_vaccine,4.0,5394,2115,39.210233592880975,37.91546389411853,40.52036070577056
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_risk,h1n1_vaccine,3.0,1117,194,17.367949865711726,15.259160485259748,19.700418832316036
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_risk,h1n1_vaccine,2.0,9919,1666,16.79604798870854,16.073251204387514,17.54455346037784
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_risk,h1n1_vaccine,5.0,1750,894,51.08571428571429,48.74384866169457,53.42282380512873
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_risk,seasonal_vaccine,1.0,8139,2732,33.56677724536184,32.54883062784694,34.600228904654216
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_risk,seasonal_vaccine,4.0,5394,3365,62.38413051538747,61.08299513507036,63.66763917296072
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_risk,seasonal_vaccine,3.0,1117,577,51.656222023276634,48.724989568384245,54.57610174197198
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_risk,seasonal_vaccine,2.0,9919,4517,45.53886480491985,44.56072925116853,46.52045446346897
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_risk,seasonal_vaccine,5.0,1750,1097,62.68571428571429,60.39428788633305,64.9215693576023
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_sick_from_vacc,h1n1_vaccine,2.0,9129,1581,17.318435754189945,16.555985349073634,18.108379220214456
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_sick_from_vacc,h1n1_vaccine,4.0,5850,1546,26.427350427350426,25.313144929577398,27.572494023896716
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_sick_from_vacc,h1n1_vaccine,1.0,8998,1841,20.46010224494332,19.639260147673063,21.306156139446994
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_sick_from_vacc,h1n1_vaccine,5.0,2187,613,28.02926383173297,26.186663265185373,29.948912126139582
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_sick_from_vacc,h1n1_vaccine,3.0,148,12,8.108108108108109,4.698837084876442,13.637037080802791
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_sick_from_vacc,seasonal_vaccine,2.0,9129,4292,47.0150071201665,45.99263939521993,48.03988594251461
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_sick_from_vacc,seasonal_vaccine,4.0,5850,2936,50.188034188034194,48.90707177877409,51.46874981042953
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_sick_from_vacc,seasonal_vaccine,1.0,8998,4012,44.58768615247833,43.563176281401546,45.61681534080592
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_sick_from_vacc,seasonal_vaccine,5.0,2187,988,45.17604023776863,43.100557388998084,47.26843991336359
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_h1n1_sick_from_vacc,seasonal_vaccine,3.0,148,62,41.891891891891895,34.246750390049414,49.94728977104978
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_vacc_effective,h1n1_vaccine,2.0,2206,205,9.29283771532185,8.151040491610694,10.576160827236187
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_vacc_effective,h1n1_vaccine,4.0,11629,2050,17.62834293576404,16.946482170764064,18.33158358254269
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_vacc_effective,h1n1_vaccine,5.0,9973,3076,30.843276847488216,29.94437081169461,31.75693499965724
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_vacc_effective,h1n1_vaccine,3.0,1216,162,13.322368421052634,11.5274210268913,15.34832224696343
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_vacc_effective,h1n1_vaccine,1.0,1221,89,7.28910728910729,5.96108124244355,8.885040883090584
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_vacc_effective,seasonal_vaccine,2.0,2206,321,14.551223934723481,13.141376131116072,16.084315885964394
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_vacc_effective,seasonal_vaccine,4.0,11629,4376,37.63006277409923,36.75377814445646,38.51451713675797
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_vacc_effective,seasonal_vaccine,5.0,9973,7028,70.47026972826632,69.56722701851469,71.35754879207164
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_vacc_effective,seasonal_vaccine,3.0,1216,340,27.960526315789476,25.510403916290446,30.54945975499446
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_vacc_effective,seasonal_vaccine,1.0,1221,193,15.806715806715808,13.868146357993346,17.959765410770796
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_risk,h1n1_vaccine,1.0,5974,506,8.470036826247071,7.79039017888232,9.203059142557176
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_risk,h1n1_vaccine,2.0,8954,1413,15.7806566897476,15.040244398055103,16.55041806041226
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_risk,h1n1_vaccine,4.0,7630,2335,30.602883355176935,29.57881750773253,31.6464710187956
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_risk,h1n1_vaccine,3.0,677,136,20.088626292466767,17.243094253732714,23.271691567108356
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_risk,h1n1_vaccine,5.0,2958,1182,39.95943204868154,38.208403767131784,41.73650522754105
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_risk,seasonal_vaccine,1.0,5974,1251,20.9407432206227,19.927797852831823,21.99103649703475
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_risk,seasonal_vaccine,2.0,8954,3341,37.31293276747822,36.3168261178714,38.31992079884496
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_risk,seasonal_vaccine,4.0,7630,5062,66.34338138925295,65.27511378974918,67.39520053958826
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_risk,seasonal_vaccine,3.0,677,377,55.686853766617425,51.92326436615112,59.38627018149144
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_risk,seasonal_vaccine,5.0,2958,2203,74.47599729546991,72.8737503827152,76.01475429020354
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_sick_from_vacc,h1n1_vaccine,2.0,7633,1450,18.99646272763003,18.132128710764466,19.89198733876676
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_sick_from_vacc,h1n1_vaccine,4.0,4852,1112,22.91838417147568,21.757435325110087,24.122181579881598
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_sick_from_vacc,h1n1_vaccine,1.0,11870,2618,22.055602358887953,21.318819118120093,22.81046690100715
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_sick_from_vacc,h1n1_vaccine,5.0,1721,388,22.545031958163857,20.633154594264724,24.579201291121173
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_sick_from_vacc,h1n1_vaccine,3.0,94,8,8.51063829787234,4.375548837127667,15.903644727489874
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_sick_from_vacc,seasonal_vaccine,2.0,7633,3242,42.473470457225204,41.3686262463001,43.585886608318816
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_sick_from_vacc,seasonal_vaccine,4.0,4852,2230,45.96042868920033,44.561892508020904,47.36535628450449
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_sick_from_vacc,seasonal_vaccine,1.0,11870,6088,51.28896377422072,50.38950853154643,52.1875849984727
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_sick_from_vacc,seasonal_vaccine,5.0,1721,662,38.46600813480535,36.195564275349106,40.787827562215135
+observed,4. Health Literacy and Behaviour Affect Vaccine Intake,opinion_seas_sick_from_vacc,seasonal_vaccine,3.0,94,17,18.085106382978726,11.60934066167844,27.06696208033505
+observed,5. Medical Conditions Influence Vaccine Intake,chronic_med_condition,h1n1_vaccine,0.0,18446,3484,18.887563699447036,18.32921909435175,19.4588642037165
+observed,5. Medical Conditions Influence Vaccine Intake,chronic_med_condition,h1n1_vaccine,1.0,7290,2008,27.544581618655695,26.53110496255346,28.581711534977643
+observed,5. Medical Conditions Influence Vaccine Intake,chronic_med_condition,seasonal_vaccine,0.0,18446,7657,41.510354548411584,40.80112017351485,42.22312419741648
+observed,5. Medical Conditions Influence Vaccine Intake,chronic_med_condition,seasonal_vaccine,1.0,7290,4400,60.356652949245536,59.22860420679071,61.473792582680275
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,h1n1_vaccine,oxchjgsf,2859,660,23.084994753410285,21.577140738531845,24.665079721906487
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,h1n1_vaccine,bhuqouqj,2846,736,25.8608573436402,24.285448126201143,27.50134353032206
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,h1n1_vaccine,qufhixun,3102,690,22.243713733075435,20.815026813258537,23.741061357003275
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,h1n1_vaccine,lrircsnp,2078,437,21.02983638113571,19.331929927773444,22.834655577636138
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,h1n1_vaccine,atmpeygn,2033,442,21.741269060501722,20.002430808663014,23.586698574766917
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,h1n1_vaccine,lzgpxyit,4297,774,18.01256690714452,16.892277553396617,19.189997826412775
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,h1n1_vaccine,fpwskwrf,3265,658,20.1531393568147,18.812613049037775,21.563816198064824
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,h1n1_vaccine,mlyzmhmf,2243,517,23.049487293802944,21.35355657011784,24.837573415770386
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,h1n1_vaccine,dqpwygqj,1126,193,17.140319715808168,15.05174710781989,19.452338025292754
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,h1n1_vaccine,kbazzjca,2858,567,19.839048285514345,18.417915636607717,21.341151215739
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,seasonal_vaccine,oxchjgsf,2859,1339,46.83455753760056,45.01092141409254,48.66668865955225
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,seasonal_vaccine,bhuqouqj,2846,1413,49.64862965565706,47.81342303561327,51.48478353871751
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,seasonal_vaccine,qufhixun,3102,1453,46.84074790457769,45.089721102821976,48.59958974582569
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,seasonal_vaccine,lrircsnp,2078,859,41.33782483156882,39.238422815735746,43.469194112792024
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,seasonal_vaccine,atmpeygn,2033,1002,49.28676832267585,47.11693573771085,51.459291200600255
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,seasonal_vaccine,lzgpxyit,4297,1948,45.333953921340466,43.85032447194441,46.82591868094884
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,seasonal_vaccine,fpwskwrf,3265,1548,47.411944869831544,45.70324041894611,49.126732153019184
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,seasonal_vaccine,mlyzmhmf,2243,1008,44.939812750780206,42.89162574451775,47.0053027143711
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,seasonal_vaccine,dqpwygqj,1126,489,43.42806394316163,40.560140799075455,46.340676227547064
+observed,Additional predictors outside the five hypotheses,hhs_geo_region,seasonal_vaccine,kbazzjca,2858,1376,48.14555633310007,46.31743146599668,49.97865965137498
+observed,Additional predictors outside the five hypotheses,census_msa,h1n1_vaccine,Non-MSA,7198,1526,21.200333425951655,20.27159656904482,22.15979373985945
+observed,Additional predictors outside the five hypotheses,census_msa,h1n1_vaccine,"MSA, Not Principle  City",11645,2467,21.185057964791756,20.452462015019556,21.936658622223547
+observed,Additional predictors outside the five hypotheses,census_msa,h1n1_vaccine,"MSA, Principle City",7864,1681,21.37589013224822,20.48389970137596,22.29583189892497
+observed,Additional predictors outside the five hypotheses,census_msa,seasonal_vaccine,Non-MSA,7198,3298,45.818282856348986,44.66978476017683,46.971242004405994
+observed,Additional predictors outside the five hypotheses,census_msa,seasonal_vaccine,"MSA, Not Principle  City",11645,5569,47.823100042936886,46.91669768048181,48.73093816560405
+observed,Additional predictors outside the five hypotheses,census_msa,seasonal_vaccine,"MSA, Principle City",7864,3568,45.37131230925738,44.273497341758656,46.47364717290572
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,pxcmvdjn,1037,143,13.789778206364515,11.824499860675648,16.022340439968563
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,rucpziij,523,74,14.149139579349903,11.42300153268738,17.39808995099785
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,wxleyezf,1804,443,24.556541019955656,22.62577471738204,26.595436273163703
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,saaquncn,338,58,17.159763313609467,13.515008817968448,21.54260509291604
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,xicduogh,851,105,12.338425381903642,10.296530474314668,14.718805014408753
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,ldnlellj,1231,212,17.221770917952885,15.215364871136346,19.432116047531046
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,wlfvacwt,215,29,13.488372093023257,9.558276830353849,18.700289509840122
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,nduyfdeo,286,49,17.132867132867133,13.208814649234101,21.92813892361441
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,fcxhlnwr,2468,982,39.789303079416534,37.875548414862884,41.73479438436921
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,vjjrobsf,527,71,13.472485768500949,10.820346874783676,16.653290761713734
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,arjwrbjb,871,208,23.88059701492537,21.167731979432926,26.82284443731004
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,atmlpfrs,926,124,13.390928725701945,11.348029157427023,15.73631478439951
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,msuufmds,124,18,14.516129032258066,9.383657142673933,21.781083300858036
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,xqicxuve,511,71,13.894324853228962,11.163842500159065,17.163607887142955
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,phxvnwax,89,15,16.853932584269664,10.488254073159327,25.962550611041678
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,dotnnunm,201,22,10.945273631840797,7.339959323477549,16.01540003401055
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,mfikgejo,614,100,16.286644951140065,13.57718361107064,19.415335086165516
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,cfqqtusy,325,47,14.461538461538462,11.052696091904993,18.700686943061925
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,mcubkhph,275,37,13.454545454545455,9.921276957079803,17.994750720407424
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,haxffmxo,148,92,62.16216216216216,54.134344927548064,69.57459483080312
+observed,Additional predictors outside the five hypotheses,employment_industry,h1n1_vaccine,qnlwzans,13,3,23.076923076923077,8.179528718498569,50.256375946727495
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,pxcmvdjn,1037,366,35.294117647058826,32.44467307096514,38.25211293662007
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,rucpziij,523,122,23.32695984703633,19.904954621500504,27.13793744236131
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,wxleyezf,1804,819,45.39911308203991,43.11382231544364,47.70395657827159
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,saaquncn,338,100,29.585798816568047,24.97130511571527,34.659103531591306
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,xicduogh,851,205,24.08930669800235,21.33676746664554,27.07471919564312
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,ldnlellj,1231,469,38.09910641754671,35.42725416910674,40.845003463073624
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,wlfvacwt,215,84,39.06976744186046,32.79450638086474,45.72875870186848
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,nduyfdeo,286,88,30.76923076923077,25.7045597595826,36.34365775644579
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,fcxhlnwr,2468,1575,63.81685575364667,61.900918362519384,65.6898479289959
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,vjjrobsf,527,163,30.929791271347252,27.13349898920668,35.00208845218547
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,arjwrbjb,871,401,46.0390355912744,42.75355136680102,49.35930527661716
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,atmlpfrs,926,347,37.47300215982721,34.413061996119204,40.63644802527275
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,msuufmds,124,57,45.96774193548387,37.44901824152907,54.72879317250866
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,xqicxuve,511,163,31.898238747553815,28.00503817700017,36.061569740752866
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,phxvnwax,89,31,34.831460674157306,25.747482821846145,45.17068203363568
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,dotnnunm,201,71,35.32338308457712,29.047317301430457,42.14991965456825
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,mfikgejo,614,268,43.648208469055376,39.77687239334448,47.59852968004786
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,cfqqtusy,325,118,36.30769230769231,31.267645042802332,41.667641061578855
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,mcubkhph,275,83,30.181818181818183,25.05994518200258,35.84974146897308
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,haxffmxo,148,125,84.45945945945947,77.7596026541791,89.41572666114926
+observed,Additional predictors outside the five hypotheses,employment_industry,seasonal_vaccine,qnlwzans,13,7,53.84615384615385,29.143795714506005,76.79393219046169
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,xgwztkwe,1082,144,13.308687615526802,11.4140068172924,15.462979362407896
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,xtkaffoo,1778,362,20.359955005624297,18.55308223026252,22.2946292884948
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,emcorrxb,1270,300,23.62204724409449,21.36767602439267,26.03551176160722
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,vlluhbov,354,67,18.926553672316384,15.187829659990463,23.332429919479683
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,xqwwgdyp,485,69,14.22680412371134,11.398526423290493,17.617314246786798
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,ccgxvspp,341,51,14.95601173020528,11.562045040115702,19.130743229211305
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,qxajmpny,548,59,10.766423357664232,8.439080108280754,13.639989318846718
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,kldqjyjy,469,97,20.68230277185501,17.262035180039188,24.57893606519111
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,mxkfnird,1509,267,17.693836978131213,15.85112412992701,19.70061565647188
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,hfxkjkmi,766,123,16.057441253263708,13.627844649092058,18.825780179508573
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,bxpfxfdn,331,89,26.888217522658607,22.396959604798525,31.909773934452133
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,ukymxvdu,372,70,18.817204301075268,15.171650252067067,23.100194283667825
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,cmhcxjea,1247,587,47.07297514033681,44.31582649981893,49.84810215115294
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,haliazsg,296,108,36.486486486486484,31.208060897325495,42.11117243530042
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,dlvbwzss,227,63,27.75330396475771,22.335258964745137,33.91176853370278
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,xzmlyyjv,248,47,18.951612903225808,14.561711808267821,24.28870594219288
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,oijqvulv,344,64,18.6046511627907,14.847221377085221,23.055522955831105
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,rcertsgn,276,25,9.057971014492754,6.210637000108581,13.029349472086215
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,tfqavkke,388,56,14.432989690721648,11.284688285452457,18.278660924540905
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,hodpvpew,208,52,25.0,19.604742129930724,31.30194035849228
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,uqqtjvyb,452,54,11.946902654867257,9.272936293746776,15.26222975061408
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,pvmttkik,98,14,14.285714285714285,8.70447054699054,22.561243033129504
+observed,Additional predictors outside the five hypotheses,employment_occupation,h1n1_vaccine,dcjcmpih,148,92,62.16216216216216,54.134344927548064,69.57459483080312
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,xgwztkwe,1082,364,33.64140480591497,30.888395847873056,36.510159703277964
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,xtkaffoo,1778,744,41.84476940382452,39.57179297993558,44.15290943034869
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,emcorrxb,1270,580,45.66929133858268,42.946892473155216,48.41780999917312
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,vlluhbov,354,127,35.87570621468927,31.05550087503282,40.9991625701809
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,xqwwgdyp,485,160,32.98969072164948,28.953255256879878,37.29347013379087
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,ccgxvspp,341,120,35.19061583577713,30.3124235786249,40.398754727659735
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,qxajmpny,548,110,20.072992700729927,16.932930039441977,23.629708965436656
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,kldqjyjy,469,185,39.44562899786781,35.12537205992794,43.93737758835498
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,mxkfnird,1509,658,43.6050364479788,41.12237382769443,46.12017568899786
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,hfxkjkmi,766,328,42.81984334203655,39.36012229048985,46.35122142325258
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,bxpfxfdn,331,150,45.31722054380665,40.038731136953736,50.703156050737576
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,ukymxvdu,372,129,34.67741935483871,30.019757738221863,39.64830380088926
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,cmhcxjea,1247,858,68.80513231756214,66.17929842345582,71.3154613394783
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,haliazsg,296,176,59.45945945945946,53.779728236145885,64.89680843101598
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,dlvbwzss,227,96,42.290748898678416,36.04485575741793,48.79322307867788
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,xzmlyyjv,248,117,47.17741935483871,41.054921538453435,53.38602552977028
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,oijqvulv,344,127,36.91860465116279,31.98958134049813,42.136562131550335
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,rcertsgn,276,88,31.88405797101449,26.66694691735784,37.598533822551346
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,tfqavkke,388,109,28.09278350515464,23.85220451002531,32.76290188743437
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,hodpvpew,208,94,45.19230769230769,38.577057389305054,51.98192001231477
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,uqqtjvyb,452,114,25.221238938053098,21.437889474764408,29.422218647144994
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,pvmttkik,98,28,28.57142857142857,20.56876082647962,38.19066732159241
+observed,Additional predictors outside the five hypotheses,employment_occupation,seasonal_vaccine,dcjcmpih,148,125,84.45945945945947,77.7596026541791,89.41572666114926
