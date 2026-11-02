@@ -1,0 +1,39 @@
+model,target,cv_roc_auc_mean,cv_roc_auc_std,cv_average_precision_mean,training_roc_auc,roc_auc,average_precision,brier_score,log_loss,balanced_accuracy_at_0_5,recall_at_0_5,fit_and_cv_seconds,record_type,fold,subgroup,respondents,observed_uptake,mean_predicted_probability
+Logistic Regression,h1n1_vaccine,0.865739550912067,0.010636460058062167,0.6873282743884199,0.871667202518797,0.8367390957122357,0.6640102944157384,0.11193980378795568,0.39968356596537186,0.7127303993637881,0.47442680776014107,3.9967342089999995,validation,,,,,
+Logistic Regression,seasonal_vaccine,0.8577950645164424,0.0041216163338085995,0.838409984989489,0.8619950712141629,0.8413745872369538,0.8260415779941218,0.16036216707155634,0.506931516518354,0.7729729984849035,0.7305991154000804,4.018027042,validation,,,,,
+Random Forest,h1n1_vaccine,0.8674535613941039,0.011385927350533686,0.6877275266428476,0.9196347265961893,0.8524769123770788,0.6669234955182428,0.11222322642679136,0.36442841074771426,0.6876091288182248,0.4056437389770723,6.235914459,validation,,,,,
+Random Forest,seasonal_vaccine,0.8526902958813741,0.007006002418636052,0.8348619487233296,0.9028247943115261,0.8471601028924339,0.8252537336690113,0.16170718941668805,0.49475853055295665,0.7628173157743321,0.708886208283072,6.254766291999999,validation,,,,,
+Gradient Boosting,h1n1_vaccine,0.8744221423512938,0.009694924004540428,0.7052684527858734,0.900128714917428,0.8613679896066393,0.6891882844726611,0.10730537153868729,0.3503373878395347,0.721633110013587,0.4929453262786596,8.24676212499999,validation,,,,,
+Gradient Boosting,seasonal_vaccine,0.8656662816329135,0.005768845156543112,0.8485369395154043,0.8847098692012113,0.8601036532224048,0.8398949450072746,0.1516102563291498,0.46593307925143884,0.7816754340510388,0.7515078407720145,8.396264083999995,validation,,,,,
+Logistic Regression,h1n1_vaccine,,,,,0.877603037324313,0.7081381530382813,,,,,,cross_validation,1.0,,,,
+Logistic Regression,h1n1_vaccine,,,,,0.8570550726702764,0.6700227525802427,,,,,,cross_validation,2.0,,,,
+Logistic Regression,h1n1_vaccine,,,,,0.8625605427416114,0.6838239175467359,,,,,,cross_validation,3.0,,,,
+Logistic Regression,seasonal_vaccine,,,,,0.8575555181260444,0.843642932348791,,,,,,cross_validation,1.0,,,,
+Logistic Regression,seasonal_vaccine,,,,,0.8537984455597378,0.8274078311443054,,,,,,cross_validation,2.0,,,,
+Logistic Regression,seasonal_vaccine,,,,,0.862031229863545,0.8441791914753708,,,,,,cross_validation,3.0,,,,
+Random Forest,h1n1_vaccine,,,,,0.8801926516080801,0.7051505568137671,,,,,,cross_validation,1.0,,,,
+Random Forest,h1n1_vaccine,,,,,0.8582686962303971,0.6809072688072508,,,,,,cross_validation,2.0,,,,
+Random Forest,h1n1_vaccine,,,,,0.8638993363438344,0.6771247543075248,,,,,,cross_validation,3.0,,,,
+Random Forest,seasonal_vaccine,,,,,0.8515968483809409,0.8365646505873758,,,,,,cross_validation,1.0,,,,
+Random Forest,seasonal_vaccine,,,,,0.8462953087968772,0.8245894233180222,,,,,,cross_validation,2.0,,,,
+Random Forest,seasonal_vaccine,,,,,0.8601787304663046,0.8434317722645905,,,,,,cross_validation,3.0,,,,
+Gradient Boosting,h1n1_vaccine,,,,,0.8844665993449555,0.720053155620727,,,,,,cross_validation,1.0,,,,
+Gradient Boosting,h1n1_vaccine,,,,,0.8651193514812842,0.6957282542425378,,,,,,cross_validation,2.0,,,,
+Gradient Boosting,h1n1_vaccine,,,,,0.8736804762276413,0.7000239484943553,,,,,,cross_validation,3.0,,,,
+Gradient Boosting,seasonal_vaccine,,,,,0.8652977631374753,0.851141321907567,,,,,,cross_validation,1.0,,,,
+Gradient Boosting,seasonal_vaccine,,,,,0.8600905304614526,0.8378160226185751,,,,,,cross_validation,2.0,,,,
+Gradient Boosting,seasonal_vaccine,,,,,0.8716105512998124,0.856653474020071,,,,,,cross_validation,3.0,,,,
+Logistic Regression,h1n1_vaccine,,,,,0.8394274813273983,,,,,,,validation_subgroup,,recommendation known,4908.0,0.22310513447432762,0.21547705599107464
+Logistic Regression,h1n1_vaccine,,,,,0.6554080437329168,,,,,,,validation_subgroup,,recommendation missing,433.0,0.09006928406466513,0.06356805842805446
+Logistic Regression,seasonal_vaccine,,,,,0.8468278733789828,,,,,,,validation_subgroup,,recommendation known,4908.0,0.4745313773431133,0.4646580503752554
+Logistic Regression,seasonal_vaccine,,,,,0.7583659378596088,,,,,,,validation_subgroup,,recommendation missing,433.0,0.3648960739030023,0.3234422922956739
+Random Forest,h1n1_vaccine,,,,,0.851247414816172,,,,,,,validation_subgroup,,recommendation known,4908.0,0.22310513447432762,0.21709935435420138
+Random Forest,h1n1_vaccine,,,,,0.8276064037485357,,,,,,,validation_subgroup,,recommendation missing,433.0,0.09006928406466513,0.08403253521673931
+Random Forest,seasonal_vaccine,,,,,0.8505849754873519,,,,,,,validation_subgroup,,recommendation known,4908.0,0.4745313773431133,0.46672602010044484
+Random Forest,seasonal_vaccine,,,,,0.790632911392405,,,,,,,validation_subgroup,,recommendation missing,433.0,0.3648960739030023,0.3706229064052986
+Gradient Boosting,h1n1_vaccine,,,,,0.8593794121767996,,,,,,,validation_subgroup,,recommendation known,4908.0,0.22310513447432762,0.2184021807783729
+Gradient Boosting,h1n1_vaccine,,,,,0.8394507353898216,,,,,,,validation_subgroup,,recommendation missing,433.0,0.09006928406466513,0.07329638713123772
+Gradient Boosting,seasonal_vaccine,,,,,0.8638414675057366,,,,,,,validation_subgroup,,recommendation known,4908.0,0.4745313773431133,0.4694480081182611
+Gradient Boosting,seasonal_vaccine,,,,,0.8001150747986191,,,,,,,validation_subgroup,,recommendation missing,433.0,0.3648960739030023,0.3576621892988534
+Prevalence-only dummy,h1n1_vaccine,,,,,0.5,0.21231979030144169,0.16724277413254235,0.5170220186072976,0.5,0.0,,dummy,,,,,
+Prevalence-only dummy,seasonal_vaccine,,,,,0.5,0.4656431379891406,0.24883490177476814,0.690815246773603,0.5,0.0,,dummy,,,,,

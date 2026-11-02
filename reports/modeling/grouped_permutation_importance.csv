@@ -1,0 +1,85 @@
+model,target,feature_group,auc_drop_mean,auc_drop_std
+Logistic Regression,h1n1_vaccine,doctor recommendations,0.060731973403975036,0.0025496010356819542
+Logistic Regression,h1n1_vaccine,H1N1 opinions,0.0792082203354421,0.002977759939650409
+Logistic Regression,h1n1_vaccine,seasonal opinions,0.009362702374349626,0.002189778957021739
+Logistic Regression,h1n1_vaccine,preventive behaviors,0.0013427691900077903,0.00036422371033902447
+Logistic Regression,h1n1_vaccine,health context,0.008233317360961704,0.0030054304492738684
+Logistic Regression,h1n1_vaccine,insurance,0.058297758823337875,0.0021095442540620397
+Logistic Regression,h1n1_vaccine,age,0.0018465347150343019,0.0007528994260527335
+Logistic Regression,h1n1_vaccine,education,0.0004630310865949931,0.0006975169264221557
+Logistic Regression,h1n1_vaccine,income,0.00036975411351451254,2.3010495814491153e-05
+Logistic Regression,h1n1_vaccine,H1N1 concern/knowledge,0.0004932150958614953,0.0003547262748196099
+Logistic Regression,h1n1_vaccine,other demographics,0.007287831218845686,0.0014061100171624482
+Logistic Regression,h1n1_vaccine,geography,0.0013868574072466815,0.000630884452894705
+Logistic Regression,h1n1_vaccine,household,0.0008782009547928885,0.0004531896543487954
+Logistic Regression,h1n1_vaccine,employment details,0.00793692715885889,0.0013484133447182617
+Logistic Regression,seasonal_vaccine,doctor recommendations,0.043488931511836304,0.0020357667003056924
+Logistic Regression,seasonal_vaccine,H1N1 opinions,0.0007999551416489522,0.0001726154015182194
+Logistic Regression,seasonal_vaccine,seasonal opinions,0.14852002663323707,0.007258969711050086
+Logistic Regression,seasonal_vaccine,preventive behaviors,0.0008231075359680743,0.00013024008176391205
+Logistic Regression,seasonal_vaccine,health context,0.010487987664329124,0.0029087535827957015
+Logistic Regression,seasonal_vaccine,insurance,0.006774024272162449,0.00012432269236098832
+Logistic Regression,seasonal_vaccine,age,0.029292803775615456,0.0012896371469544874
+Logistic Regression,seasonal_vaccine,education,0.0012260437291904773,0.00033691418432040974
+Logistic Regression,seasonal_vaccine,income,0.0005562210107837121,0.0001894437963572053
+Logistic Regression,seasonal_vaccine,H1N1 concern/knowledge,0.0006003185731888738,0.00024301475025151895
+Logistic Regression,seasonal_vaccine,other demographics,0.003931680430835509,0.0009133381116816859
+Logistic Regression,seasonal_vaccine,geography,0.0007823912563034533,0.0006365865375350627
+Logistic Regression,seasonal_vaccine,household,0.0007571725225317868,0.00022232435478457854
+Logistic Regression,seasonal_vaccine,employment details,0.007962169457305065,0.0011869770260775011
+Random Forest,h1n1_vaccine,doctor recommendations,0.08689158784238411,0.0013441337342425634
+Random Forest,h1n1_vaccine,H1N1 opinions,0.05573428401783265,0.0013594159238682786
+Random Forest,h1n1_vaccine,seasonal opinions,0.01138342397619263,0.0016354012524480393
+Random Forest,h1n1_vaccine,preventive behaviors,0.0011615952640171938,0.0003269780036448102
+Random Forest,h1n1_vaccine,health context,0.004736863213476254,0.0005989075978471656
+Random Forest,h1n1_vaccine,insurance,0.0613153213052852,0.0022446236221601206
+Random Forest,h1n1_vaccine,age,0.0012682174819353225,0.0005965573211374345
+Random Forest,h1n1_vaccine,education,0.0007682948284590448,0.00013709826134393902
+Random Forest,h1n1_vaccine,income,0.0007962429851873601,0.00029123135133253796
+Random Forest,h1n1_vaccine,H1N1 concern/knowledge,0.002543701484620057,0.0008176164705685561
+Random Forest,h1n1_vaccine,other demographics,0.003185880255843062,0.00024676470623538404
+Random Forest,h1n1_vaccine,geography,-0.00011381886827573535,0.0002026389410340182
+Random Forest,h1n1_vaccine,household,-0.00013387167072823983,0.00036435133618875745
+Random Forest,h1n1_vaccine,employment details,0.004900918893470996,0.0004766252552462271
+Random Forest,seasonal_vaccine,doctor recommendations,0.06609454423455148,0.004710990154986089
+Random Forest,seasonal_vaccine,H1N1 opinions,0.004131363961556038,0.0011815393165975452
+Random Forest,seasonal_vaccine,seasonal opinions,0.11986398414478971,0.007937844508484126
+Random Forest,seasonal_vaccine,preventive behaviors,0.0010056498416856814,0.00023524278869336483
+Random Forest,seasonal_vaccine,health context,0.003007838846561972,0.00045688339083838265
+Random Forest,seasonal_vaccine,insurance,0.004405388750303385,0.0002769392282211558
+Random Forest,seasonal_vaccine,age,0.018891602368288168,0.0015595757231228638
+Random Forest,seasonal_vaccine,education,0.0011552246406848488,0.0006263162896759835
+Random Forest,seasonal_vaccine,income,0.0008330635351481522,3.2866503551991954e-05
+Random Forest,seasonal_vaccine,H1N1 concern/knowledge,0.001959688159320905,0.0003667526278428718
+Random Forest,seasonal_vaccine,other demographics,0.007233080366422155,0.001756194984760021
+Random Forest,seasonal_vaccine,geography,0.00017291504235964852,0.00020636361266951645
+Random Forest,seasonal_vaccine,household,0.0019186901060944672,0.0008040167555211666
+Random Forest,seasonal_vaccine,employment details,0.0030878155758227535,0.0005245746886301232
+Gradient Boosting,h1n1_vaccine,doctor recommendations,0.06942510781350793,0.0012918917302260635
+Gradient Boosting,h1n1_vaccine,H1N1 opinions,0.08445066570413202,0.0013658870881081474
+Gradient Boosting,h1n1_vaccine,seasonal opinions,0.007892629330444434,0.0015369491604904592
+Gradient Boosting,h1n1_vaccine,preventive behaviors,0.0009746919658968345,0.000383064810262982
+Gradient Boosting,h1n1_vaccine,health context,0.00786712663742998,0.0007986505972122544
+Gradient Boosting,h1n1_vaccine,insurance,0.06698872725072429,0.0017600700091176542
+Gradient Boosting,h1n1_vaccine,age,0.004359563097644921,0.000757433697437914
+Gradient Boosting,h1n1_vaccine,education,0.00047840257279537407,0.00022125155449609604
+Gradient Boosting,h1n1_vaccine,income,0.0007503381377610419,7.131412511057608e-05
+Gradient Boosting,h1n1_vaccine,H1N1 concern/knowledge,0.0028743980491066448,0.0004182146393111594
+Gradient Boosting,h1n1_vaccine,other demographics,0.0035981155675842333,0.0003535528748790731
+Gradient Boosting,h1n1_vaccine,geography,0.0005436615187556596,0.0007447793407827378
+Gradient Boosting,h1n1_vaccine,household,-0.00041006932959516035,0.0002637179612738171
+Gradient Boosting,h1n1_vaccine,employment details,0.006664796934981343,0.0004553850907975155
+Gradient Boosting,seasonal_vaccine,doctor recommendations,0.04418460695452845,0.0023886463363095496
+Gradient Boosting,seasonal_vaccine,H1N1 opinions,0.0021610153691511425,0.0005051240522503734
+Gradient Boosting,seasonal_vaccine,seasonal opinions,0.16281350713502327,0.007222077768743159
+Gradient Boosting,seasonal_vaccine,preventive behaviors,0.00046276611282206986,0.0001338251140805947
+Gradient Boosting,seasonal_vaccine,health context,0.0030436240888970234,0.0007683186718101061
+Gradient Boosting,seasonal_vaccine,insurance,0.007655130199579345,0.00035926505732909644
+Gradient Boosting,seasonal_vaccine,age,0.03557762218241715,0.002055708292089257
+Gradient Boosting,seasonal_vaccine,education,0.0022459231357414935,0.0006446101619595829
+Gradient Boosting,seasonal_vaccine,income,0.0004906147331694329,0.0001585404105160651
+Gradient Boosting,seasonal_vaccine,H1N1 concern/knowledge,0.0022289697597796345,7.894149216229673e-05
+Gradient Boosting,seasonal_vaccine,other demographics,0.0026918767593824278,0.0005129309502165032
+Gradient Boosting,seasonal_vaccine,geography,0.0001471797237248366,0.00020380753657173287
+Gradient Boosting,seasonal_vaccine,household,0.00035907344211857,0.00022397836101320325
+Gradient Boosting,seasonal_vaccine,employment details,0.005946408359207307,0.0004672732838921729
