@@ -1,0 +1,7 @@
+Target,Model,Best tuning ROC-AUC,Best parameters
+H1N1,Gradient Boosting,0.837712012380439,"{'model__n_estimators': 100, 'model__min_samples_leaf': 1, 'model__max_depth': 3, 'model__learning_rate': 0.1}"
+H1N1,Logistic Regression,0.8330116455958724,"{'model__class_weight': 'balanced', 'model__C': 1}"
+H1N1,Random Forest,0.8323758497067657,"{'model__n_estimators': 150, 'model__min_samples_leaf': 10, 'model__max_features': 'sqrt', 'model__max_depth': 25, 'model__class_weight': 'balanced'}"
+Seasonal,Gradient Boosting,0.8585382891031701,"{'model__n_estimators': 100, 'model__min_samples_leaf': 1, 'model__max_depth': 3, 'model__learning_rate': 0.1}"
+Seasonal,Random Forest,0.8542318790600129,"{'model__n_estimators': 250, 'model__min_samples_leaf': 2, 'model__max_features': 'sqrt', 'model__max_depth': 25, 'model__class_weight': None}"
+Seasonal,Logistic Regression,0.85104262308987,"{'model__class_weight': None, 'model__C': 0.1}"
